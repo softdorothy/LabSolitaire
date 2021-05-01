@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a919cc79-e29e-4127-a8ef-31d2df042980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a919cc79-e29e-4127-a8ef-31d2df042980" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a919cc79-e29e-4127-a8ef-31d2df042980" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2412784C-271B-4460-90A1-807ED07104B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a919cc79-e29e-4127-a8ef-31d2df042980" : "LabSolitaire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LabSolitaire",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LabSolitaire.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/yuki2\/srv\/svn\/LabSolitaire",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a919cc79-e29e-4127-a8ef-31d2df042980"
+    }
+  ]
+}
